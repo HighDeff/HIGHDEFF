@@ -1,0 +1,26 @@
+=== Sheet: Sheet1 ===
+ |  | Received | for the month |  | Owes |  | Date | Date |  | Business Name |  |  | Name of Payee |  | Any other notes |  |  |  |  |  | 
+ITEM |  | ex.$100 |  |  | ex.$10 |  | 2021-12-22 00:00:00 | 2021-12-23 00:00:00 |  |  |  |  |  |  |  |  |  |  |  |  | 
+HOUSE | 1 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+NFT | 2 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+HDF/HDFI | 3 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+WEBSITE | 4 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+STORE | 5 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CARD | 6 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+MEME | 7 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+DONATIONS | 8 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+OWN TOKEN | 9 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+SERVICES | 10 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CHECKLIST |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+1 | Sent Crypto |  | Y    /    N |  | AMOUNT |  | AMOUNT REMAINING |  |  | DATE SENT |  | AMOUNT ALLOCATED |  |  | FEES |  | REMAINING |  | EXTRA |  | $ PAID
+2 | CREATED NFT |  | Y   /    N |  | COST |  | NAME |  |  | DATE |  | ADDRESS |  |  | VERIFIED |  | EMAIL |  | EXTRA |  | $PAID
+3 | CREATED HOUSE |  | Y    /   N |  | VALUE |  | NAME |  |  | DATE |  | NUMBER IN QUE |  |  | MONTHLY ADD |  | NFT NAME |  | NFT PRICE |  | $PAID
+4 | CREATED STORE 1 |  | Y  /  N / NA |  | # OF ITEMS |  | NAME |  |  | DATE |  | % WE GET FOR SALES |  |  | MONTHLY PAY |  | % DISCOUNT |  | # OF DISCOUNTS |  | TYPE
+5 | CREATED STORE 2 |  | Y  /  N / NA |  | # OF ITEMS |  | NAME |  |  | DATE |  | % WE GET FOR SALES |  |  | MONTHLY PAY |  | % DISCOUNT |  | # OF DISCOUNTS |  | TYPE
+6 | ADD TO DELIVERY |  | Y / N  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+7 | SENT EMAIL |  | Y   /  N |  | SENT TO LIST |  | UPDATED DISCOUNTS |  |  | DATE |  | CLICKS TO SITE |  |  | # OF REPLY |  | MY COST |  | REVENUE |  | 
+8 | CREATED FLYERS |  | Y  /  N |  | PRICE |  | NUMBER OF FLYERS |  |  | DATE |  | HAND OUT AROUND |  |  | CONTINIOUS |  | $PER MONTH |  | END DATE |  | CODE
+9 | ADDED TO ALL PAGES |  |  Y /   N |  | SERVICES |  | PARTNERS |  |  | DATE |  | AFFILIATES |  |  | HOUSE |  | NFT |  | STORES |  | HUB
+10 | CREATED BROCHURE |  |   Y  /  N |  | SENT TO LIST |  | UPDATED DISCOUNTS |  |  | DATE |  | CLICKS TO SITE |  |  | # OF REPLY |  | MY COST |  | REVENUE |  | 
+11 | PARTICAPTING LIVE |  | Y / N  |  | TYPE OF SALE |  | TYPE OF ITEMS |  |  | DATE |  | MY DISCOUNT |  |  | PARTNERS DISCOUNT |  |  |  |  |  | 
+12 | CUSTOM NFT |  | Y  / N  |  | NAME |  | $ PAID |  |  | DATE |  | ACCUAL VALUE |  |  | DRAWN  |  |   WALLET |  | ADDRESS |  | 

@@ -1,0 +1,15 @@
+=== Sheet: Sheet1 ===
+ | Payment to High Deff |  |  |  |  | Payment by High Deff |  | 
+Monthly Payment |  | 100.0 |    Standard |  | Monthly Payment |  | 10.0 |     Standard
+Store Sales through hub |  | 25.0 |     5 items |  | Store Sales through hub |  | 50.0 |     10 items
+other busines | high deff |  |  |  | other busines | high deff |  | 
+4 | 1 |  |  |  | 8 | 2 |  | 
+People who clicked me from other store or highdeff.us |   | 100.0 |   $1 per click |  | People who clicked for other sites |   | 20.0 | 
+100 |  |  |  |  | 10 |  |  | 
+Donations |  | 10.0 | $5 to high Deff |   | Donations |  | 1000.0 |    20 People   
+$1 to _____ and $2 to ________ |  |  |  |  |  |  |  | 
+Direct Refferals |  | 100.0 | 10 business at $10 |   | Direct Refferals |  | 100.0 | 10 business at $10
+(see refferal section) |  |  |  |  | (see refferal section) |  |  | 
+Item Discount Sale |  | 50.0 | 10 items sold |  | Item Discount Sale |  |    $10 crypto | 
+1,000 items couldnt sell so 50% off |  |  |  |  | 1,000 items couldnt sell so 50% off |  |  | 
+TOTAL |  | 385.0 |  |  | TOTAL |  | 2290.0 | 
