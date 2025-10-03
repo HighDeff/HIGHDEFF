@@ -971,7 +971,6 @@ footer p {
   border-radius: calc(var(--spacing-unit) * 1.5);
   padding: calc(var(--spacing-unit) * 3);
   background-color: var(--color-surface);
-  display: none;
   gap: calc(var(--spacing-unit) * 2);
 }
 
