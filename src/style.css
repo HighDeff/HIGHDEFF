@@ -315,6 +315,13 @@ section {
   font-size: 14px;
 }
 
+.contact-summary {
+  text-align: center;
+  color: var(--color-text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 footer {
   background-color: var(--color-surface);
   border-top: 1px solid var(--color-border);
@@ -342,6 +349,17 @@ footer p {
   border-radius: calc(var(--spacing-unit) * 2);
   margin: calc(var(--spacing-unit) * 4) auto;
   max-width: 600px;
+}
+
+.integration-warning {
+  text-align: center;
+  padding: calc(var(--spacing-unit) * 4);
+  color: var(--color-text-secondary);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: calc(var(--spacing-unit) * 2);
+  max-width: 600px;
+  margin: calc(var(--spacing-unit) * 4) auto;
 }
 
 @media (max-width: 768px) {
