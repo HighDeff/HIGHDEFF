@@ -81,7 +81,7 @@ app.innerHTML = `
     <section id="contact">
       <div class="container">
         <h2 class="section-title">Get In Touch</h2>
-        <p style="text-align: center; color: var(--color-text-secondary); max-width: 600px; margin: 0 auto;">
+        <p class="contact-summary">
           I'm always interested in hearing about new projects and opportunities.
           Feel free to reach out if you'd like to collaborate!
         </p>
@@ -98,14 +98,23 @@ app.innerHTML = `
 
 async function loadProjects() {
   const container = document.getElementById('projects-container')!;
+  const supabaseClient = supabase;
+
+  if (!supabaseClient) {
+    container.classList.remove('loading');
+    container.innerHTML = '<p class="integration-warning">Supabase is not configured. Add your credentials to display projects.</p>';
+    return;
+  }
 
   try {
-    const { data: projects, error } = await supabase
+    const { data: projects, error } = await supabaseClient
       .from('projects')
       .select('*')
       .order('created_at', { ascending: false });
 
     if (error) throw error;
+
+    container.classList.remove('loading');
 
     if (!projects || projects.length === 0) {
       container.innerHTML = '<p class="loading">No projects yet. Add your first project above!</p>';
@@ -127,6 +136,7 @@ async function loadProjects() {
     `;
   } catch (error) {
     console.error('Error loading projects:', error);
+    container.classList.remove('loading');
     container.innerHTML = '<div class="error">Failed to load projects. Please try again later.</div>';
   }
 }
@@ -141,6 +151,13 @@ async function handleProjectSubmit(e: Event) {
   e.preventDefault();
 
   const form = e.target as HTMLFormElement;
+  const supabaseClient = supabase;
+
+  if (!supabaseClient) {
+    alert('Supabase is not configured. Please add your credentials to enable project submissions.');
+    return;
+  }
+
   const formData = new FormData(form);
 
   const title = formData.get('title') as string;
@@ -149,7 +166,7 @@ async function handleProjectSubmit(e: Event) {
   const tags = tagsString.split(',').map(tag => tag.trim()).filter(tag => tag.length > 0);
 
   try {
-    const { error } = await supabase
+    const { error } = await supabaseClient
       .from('projects')
       .insert([{ title, description, tags }]);
 
