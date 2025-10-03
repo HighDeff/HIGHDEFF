@@ -1,0 +1,13 @@
+=== Sheet: Sheet1 ===
+ |  |  |  | Spending $100 |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 100.0
+ |  |  | Pays Monthly Fee |  | 100.0 |  |  | Pays Monthly Fee |  | 100.0 |  |  |  |  |  | -100.0
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0.0
+ |  |  | Person A walks in to buy item |  |    |  |  | Person A walks in to buy item |  |    | 50.0 |  |  |  |  | 50.0
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 90 | -5.0
+ |  |  | Goes to high deff site to get free crypto |  |  |  |  | Goes to high deff site to get crypto  probably cost me                 $10 |  |  |  | 5.0 |  |  |  | 45.0
+ |  |  | Enters code and receives 1000 shiba inu |  |  |  |  | I receive money and send coins minus fee in wallet hopefully |  |  |  |  | Fee $10 | Or $5 | Or $1 | 
+ |  |  |  |  |  |  |  | I Take out $1 for payment for click to site if not from flier |  |  |  |  |  |  |  | 
+Store receives |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+If person gets reffered get paid | 1.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pay high Def |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
